@@ -154,5 +154,5 @@ GROUP BY MONTH(fecha_venta);
 --HALLAZGOS
 
 --1) El producto 1 concentra el mayor total facturado ($4800), un 52% más que el segundo puesto (producto 3, $3150).
---2) Marzo concentra 10 de los 12 pedidos totales y el 65% de la facturación del trimestre ($6444 de $9444), mientras enero y febrero tuvieron apenas 1 pedido cada uno.
+--2) Marzo concentra 10 de los 12 pedidos totales y el 68% de la facturación del trimestre ($6444 de $9444), mientras enero y febrero tuvieron apenas 1 pedido cada uno.
 --3) Los 5 clientes son recurrentes (más de un pedido cada uno); el cliente 5 y el cliente 2 son los de mayor gasto acumulado ($3300 y $2320 respectivamente)
